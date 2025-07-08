@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../materials/tei_all_ja.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Manuscript B</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement ref="#pune">Pune</settlement>
+                        <repository>Bhandarkar Oriental Research Institute</repository>
+                    </msIdentifier>
+                    <msContents>
+                        <summary xml:lang="en">A manuscript of the Mahābhārata, written on palm leaf.</summary>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>Metadata only file.</p>
+        </body>
+    </text>
+</TEI>

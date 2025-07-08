@@ -1,0 +1,8 @@
+{
+  "name": "Sanskrit Manuscripts in India",
+  "places": "listPlace.xml",
+  "files": [
+        "data/test3.xml",
+        "data/test4.xml"
+  ]
+}

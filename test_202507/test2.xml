@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../materials/tei_all_ja.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Place List for Indic Manuscripts</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Generated for manuscript mapping project.</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <listPlace>
+                <place xml:id="varanasi">
+                    <placeName>Varanasi</placeName>
+                    <location>
+                        <geo>25.3176 82.9739</geo>
+                    </location>
+                </place>
+                <place xml:id="pune">
+                    <placeName>Pune</placeName>
+                    <location>
+                        <geo>18.5204 73.8567</geo>
+                    </location>
+                </place>
+            </listPlace>
+        </body>
+    </text>
+</TEI>
+
+

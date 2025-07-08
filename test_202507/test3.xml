@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../materials/tei_all_ja.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Manuscript A</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement ref="#varanasi">Varanasi</settlement>
+                        <repository>Sampurnanand Sanskrit University</repository>
+                    </msIdentifier>
+                    <msContents>
+                        <summary xml:lang="en">A manuscript of the Ṛgveda, dated ca. 18th century.</summary>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>Metadata only file.</p>
+        </body>
+    </text>
+</TEI>
